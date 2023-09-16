@@ -1,35 +1,15 @@
-# Assignment's Title
+# Internal structure of capacitors
 
-## Assignment's description
-Describe the assignment
+* This sketch shows the structure of an aluminum electrolytic capacitor as well as the principles of it.
 
-## Documentation
-Describe the work you did to complete the assignment
 
-bullet point list
-* item one
-* item two
-* item three
+![Sketch](https://github.com/HHY1111/PCB-class-2023/blob/main/02-sketch/electrolytic%20capacitor/electrolytic%20capacitor.jpeg)
 
-numbered list
-1. item one
-2. item two
-3. item three
+1. The basic materials used for capacitors are as follows:
+Aluminum foil, pins, electrolysis paper, electrolysis solution, plastic cap (sealing rubber), aluminum shell, plastic tube (casing), luminum shell, plastic tube (casing)
 
-**bold text**
+2. Principle of electrolytic capacitor
+   All capacitors consist of two layers of conductive material (or electrodes) that are separated by an insulator made of dielectric material. An electric field is created between these layers, which allows the capacitor to store energy when a current is applied to charge it. An aluminum electrolytic capacitor is characterized by its electrodes made of aluminum foil, while a conductive liquid, the electrolyte, is placed between the two aluminum foil electrodes. Through an electrochemical reaction, on the anode foil forms an oxide layer (A/203, which acts as a dielectric in the aluminum electrolytic capacitor.
 
-*italic text*
-
-***italic and bold text***
-
-example of an external link
-
-[description of the website](https://www.https://www.example.com/)
-
-example of a picture hosted on an external website
-
-![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
-
-example of a picture hosted inside your repository (don't forget the ./ operand)
-
-![picture description](./images/example.jpg)
+所有电容器都由两层导电材料（或电极）组成，这两层导电材料则由介电材料制成的一个绝缘体隔开。这些层之间会产生一个电场，当有电流给电容器充电时，它就可以存储能量。铝电解电容器的特点是它的电极由铝箔制成，而导电液体，即电解液置于两个铝箔电极之间。通过电化学反应，在阳极上
+箔会形成氧化层 (A/203），它在铝电解电容器中充当电介质
