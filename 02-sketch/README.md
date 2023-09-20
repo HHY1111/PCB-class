@@ -13,3 +13,13 @@ Aluminum foil, pins, electrolysis paper, electrolysis solution, plastic cap (sea
 
 所有电容器都由两层导电材料（或电极）组成，这两层导电材料则由介电材料制成的一个绝缘体隔开。这些层之间会产生一个电场，当有电流给电容器充电时，它就可以存储能量。铝电解电容器的特点是它的电极由铝箔制成，而导电液体，即电解液置于两个铝箔电极之间。通过电化学反应，在阳极上
 箔会形成氧化层，它在铝电解电容器中充当电介质
+
+![](https://github.com/HHY1111/PCB-class-2023/blob/main/02-sketch/electrolytic%20capacitor/electrolytic%20capacitor%20ppt/electrolytic%20capacitor.001.png)
+
+![](https://github.com/HHY1111/PCB-class-2023/blob/main/02-sketch/electrolytic%20capacitor/electrolytic%20capacitor%20ppt/electrolytic%20capacitor.002.png)
+
+![](https://github.com/HHY1111/PCB-class-2023/blob/main/02-sketch/electrolytic%20capacitor/electrolytic%20capacitor%20ppt/electrolytic%20capacitor.003.png)
+
+![](https://github.com/HHY1111/PCB-class-2023/blob/main/02-sketch/electrolytic%20capacitor/electrolytic%20capacitor%20ppt/electrolytic%20capacitor.004.png)
+
+![](https://github.com/HHY1111/PCB-class-2023/blob/main/02-sketch/electrolytic%20capacitor/electrolytic%20capacitor%20ppt/electrolytic%20capacitor.005.png)
