@@ -65,10 +65,10 @@ Connect the Signal pin to the digital pin 2, connect VCC to VCC and GND to GND.
 ![[(https://github.com/HHY1111/PCB-class-2023/blob/main/03-sensors/optical%20sensor_photos/optical3.jpg)
 
 ## Testing
-In normal conditions,the light is on, the optical sensor, showing "1" in the serial monitor
+In normal conditions,the light is on, the optical sensor, showing "0" in the serial monitor
 ![In normal conditions the optical sensor show "1" in the serial monitor](https://github.com/HHY1111/PCB-class-2023/blob/main/03-sensors/optical%20sensor_photos/optical1.jpeg)
 
-When putting a finger between the optical sensor,the light is off, showing "0" in the serial monitor.
+When putting a finger between the optical sensor,the light is off, showing "1" in the serial monitor.
 ![](https://github.com/HHY1111/PCB-class-2023/blob/main/03-sensors/optical%20sensor_photos/optical2.jpg)
 
 
