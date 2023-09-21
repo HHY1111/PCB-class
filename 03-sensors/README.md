@@ -10,7 +10,7 @@ The DHT11 is a common low-cost temperature and humidity sensor that can measure 
 ](https://github.com/HHY1111/PCB-class-2023/blob/main/03-sensors/DHT11%20Temperature%20and%20Humidity%20Sensor-photos/temperature%20and%20humidity%20sensor/2.jpg)
 
 ### Coding
-··#include <DHT.h>
+··· #include <DHT.h>
 
 #define DHTPIN 2          //连接到Arduino的数字输入引脚
 #define DHTTYPE DHT11     //使用DHT11温湿度传感器
@@ -33,7 +33,7 @@ void loop() {
   Serial.print("%，  温度：");
   Serial.print(temperature);
   Serial.print(" ℃\n");
-}··
+}···
 
 
 ![Temperature and humidity will be changed accordingly in the serial monitor
