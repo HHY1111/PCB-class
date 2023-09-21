@@ -55,6 +55,12 @@ https://zhuanlan.zhihu.com/p/636814848
 
 ## 2. Optical Sensor
 (digital)
+An optical sensor converts light rays into electronic signals. It measures the physical quantity of light and then translates it into a form that is readable by an instrument.
+
+## Connection
+The pins of the optical sensor
+![](https://github.com/HHY1111/PCB-class-2023/blob/main/03-sensors/optical%20sensor_photos/optical1.jpeg)
+
 
 ## Coding
 ```
