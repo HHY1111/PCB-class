@@ -1,9 +1,11 @@
-# Assignment's Title
+# 03-Sensors
 
-## Assignment's description
-Describe the assignment
+## 1. DHT11 Temperature and Humidity Sensor
+(analogy)
 
-## Documentation
+
+
+## Optical Sensor
 Describe the work you did to complete the assignment
 
 bullet point list
