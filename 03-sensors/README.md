@@ -1,6 +1,6 @@
 # 03-Sensors
 
-## 1. DHT11 Temperature and Humidity Sensor
+# 1. DHT11 Temperature and Humidity Sensor
 (analogy)
 The DHT11 is a common low-cost temperature and humidity sensor that can measure temperatures from 0°C to 50°C and relative humidity from 20-90%.
 ### Connection
@@ -53,7 +53,7 @@ Temperature and humidity will be changed accordingly in the serial monitor
 Arduino开发板传感器模块——温湿度传感器模块篇——DHT11/DHT22以及DHT11/DHT22之间的对比与选择。
 https://zhuanlan.zhihu.com/p/636814848
 
-## 2. Optical Sensor
+# 2. Optical Sensor
 (digital)
 An optical sensor converts light rays into electronic signals. It measures the physical quantity of light and then translates it into a form that is readable by an instrument.
 
