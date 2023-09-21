@@ -4,8 +4,10 @@
 (analogy)
 The DHT11 is a common low-cost temperature and humidity sensor that can measure temperatures from 0°C to 50°C and relative humidity from 20-90%.
 ### Connection
+The pins of the DHT11 Sensor
 ![The pins of the DHT11 Sensor](https://github.com/HHY1111/PCB-class-2023/blob/main/03-sensors/DHT11%20Temperature%20and%20Humidity%20Sensor-photos/temperature%20and%20humidity%20sensor/1.jpg)
 
+Connect the signal pin to digital pin 2 and the other two pins to VCC and GND.
 ![Connect the signal pin to digital pin 2 and the other two pins to VCC and GND.
 ](https://github.com/HHY1111/PCB-class-2023/blob/main/03-sensors/DHT11%20Temperature%20and%20Humidity%20Sensor-photos/temperature%20and%20humidity%20sensor/2.jpg)
 
@@ -37,10 +39,13 @@ void loop() {
   Serial.print(" ℃\n");
 }
 ```
+Room temperature and humidity
 ![Room temperature and humidity](https://github.com/HHY1111/PCB-class-2023/blob/main/03-sensors/DHT11%20Temperature%20and%20Humidity%20Sensor-photos/temperature%20and%20humidity%20sensor/4.jpeg)
 
+Temperature and humidity both elevated when holding the sensor with a wet hand
 ![Temperature and humidity both elevated when holding the sensor with a wet hand](https://github.com/HHY1111/PCB-class-2023/blob/main/03-sensors/DHT11%20Temperature%20and%20Humidity%20Sensor-photos/temperature%20and%20humidity%20sensor/5.jpeg)
 
+Temperature and humidity will be changed accordingly in the serial monitor
 ![Temperature and humidity will be changed accordingly in the serial monitor
 ](https://github.com/HHY1111/PCB-class-2023/blob/main/03-sensors/DHT11%20Temperature%20and%20Humidity%20Sensor-photos/temperature%20and%20humidity%20sensor/3.png)
 
