@@ -55,3 +55,17 @@ https://zhuanlan.zhihu.com/p/636814848
 
 ## 2. Optical Sensor
 (digital)
+
+## Coding
+```
+int opticalvalue = 0;
+void setup() {
+  pinMode(2,INPUT);
+  Serial.begin(9600);
+}
+void loop() {
+  opticalvalue=digitalRead(2);
+  Serial.println(opticalvalue);
+  delay(50);
+}
+```
