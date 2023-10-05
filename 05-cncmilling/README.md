@@ -5,6 +5,7 @@
 2. Connect the components to each other.
 3. Name the wires.(5V/GND/PinX...)
 [](https://github.com/HHY1111/PCB-class-2023/blob/main/05-cncmilling/CNC%20file%20images/SCH_Schematic1_1-P1_2023-10-05.png)
+
 **Notes**
 
 - SMD(surface mount components)，Components soldered directly to the board, for PCB design
@@ -16,7 +17,9 @@
 
 ## Step 2 - Board File
 1. Connect the components in the board file according to the schematic file and the blue line.
-2. 
+2. Modify line thickness
+3. Check for proper connection
+4. Changing the Outline Shape
 ![](https://github.com/HHY1111/PCB-class-2023/blob/main/05-cncmilling/CNC%20file%20images/截屏2023-10-05%2022.01.50.png)
 
 **Notes**
