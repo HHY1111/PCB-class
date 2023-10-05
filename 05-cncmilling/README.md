@@ -4,7 +4,7 @@
 1. Finding the right component in the library.
 2. Connect the components to each other.
 3. Name the wires.(5V/GND/PinX...)
-[](https://github.com/HHY1111/PCB-class-2023/blob/main/05-cncmilling/CNC%20file%20images/SCH_Schematic1_1-P1_2023-10-05.png)
+![](https://github.com/HHY1111/PCB-class-2023/blob/main/05-cncmilling/CNC%20file%20images/SCH_Schematic1_1-P1_2023-10-05.png)
 
 **Notes**
 
