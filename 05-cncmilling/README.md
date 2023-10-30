@@ -45,8 +45,8 @@
 2. Calculate locations to maximize material savings
 3. After cutting, carefully pry up the PCB with a tool and polish it with a hobby knife and iron cotton to prevent inter-wire connections.
 ![WechatIMG2427](https://github.com/HHY1111/PCB-class-2023/assets/144415019/935b98a6-e3f1-4edd-a548-1bed0241f495)
-![WechatIMG2423](https://github.com/HHY1111/PCB-class-2023/assets/144415019/14c2c9af-fa58-47b7-8fd5-62501e33c54d)
 ![WechatIMG2428](https://github.com/HHY1111/PCB-class-2023/assets/144415019/8ca6af3a-d439-45ec-b3fa-51b94f97f742)
+![WechatIMG2423](https://github.com/HHY1111/PCB-class-2023/assets/144415019/14c2c9af-fa58-47b7-8fd5-62501e33c54d)
 
 ## Step 6 - Solding components
 1. go in with the solder iron (wait for 3 seconds)
