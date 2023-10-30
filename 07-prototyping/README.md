@@ -11,7 +11,7 @@ The whole process simulates the phenomenon in nature that when pollinators such 
 <img width="1473" alt="截屏2023-10-30 15 24 46" src="https://github.com/HHY1111/PCB-class-2023/assets/144415019/46129271-79e5-4314-b54a-273825f81595">
 Interconnected interacting flowers, with an alcohol sensor in the first one (to replace the CO2 sensor) and a servomotor inside the second multi (to replace the fan). When blowing alcohol to the first flower, the second flower will start to rotate.
 
-``#include <Servo.h>
+```#include <Servo.h>
 Servo myServo;  // create a servo object
 int pos = 0;
 int ALCOHOL_sensor = 13;// MQ-6 SENSOR  
@@ -35,7 +35,7 @@ int ALCOHOL_detected;
                // in steps of 1 degree
             delay(15);      
          }  
-       }``
+       }```
 
 
 ## 03 Research
