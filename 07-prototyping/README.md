@@ -35,8 +35,8 @@ int ALCOHOL_detected;
                // in steps of 1 degree
             delay(15);      
          }  
-       }```
-
+       }
+```
 
 ## 03 Research
 The scent of a flower typically contains volatile organic compounds(VOCs) that can disperse in the air and be detected by other nearby flowers. This dispersion helps attract more pollinators because insects, butterflies, and bees often rely on scent to locate flowers. 
