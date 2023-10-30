@@ -4,7 +4,7 @@
 ### An interaction installation which imitates how flowers using volatile organic compounds(VOCs) to communicate with pollinators and other flowers
 
 ## 02 Whatchamacallit(two hours' quick prototyping)
-![Uploading WechatIMG2424.jpeg…]()
+<img width="1473" alt="截屏2023-10-30 15 24 46" src="https://github.com/HHY1111/PCB-class-2023/assets/144415019/46129271-79e5-4314-b54a-273825f81595">
 
 
 ## 03 Research
