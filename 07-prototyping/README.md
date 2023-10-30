@@ -10,6 +10,7 @@ The whole process simulates the phenomenon in nature that when pollinators such 
 ## 02 Whatchamacallit(two hours' quick prototyping)
 <img width="1473" alt="截屏2023-10-30 15 24 46" src="https://github.com/HHY1111/PCB-class-2023/assets/144415019/46129271-79e5-4314-b54a-273825f81595">
 - Interconnected interacting flowers, with an alcohol sensor in the first one (to replace the CO2 sensor) and a servomotor inside the second multi (to replace the fan). When blowing alcohol to the first flower, the second flower will start to rotate.
+
 - Coding
 
 ```#include <Servo.h>
