@@ -5,9 +5,11 @@
 ![WechatIMG2429](https://github.com/HHY1111/PCB-class-2023/assets/144415019/d8f31dfc-cd07-4022-93f6-4dad8f01fe41)
 The whole process simulates the phenomenon in nature that when pollinators such as bees are close to a flower, the flower starts to release fragrance, and the fragrance released by the flower affects the flowers around it to release fragrance at the same time, in order to increase the pollination rate.
 
+
 ## 02 Whatchamacallit(two hours' quick prototyping)
 <img width="1473" alt="截屏2023-10-30 15 24 46" src="https://github.com/HHY1111/PCB-class-2023/assets/144415019/46129271-79e5-4314-b54a-273825f81595">
 Interconnected interacting flowers, with an alcohol sensor in the first one (to replace the CO2 sensor) and a servomotor inside the second multi (to replace the fan). When blowing alcohol to the first flower, the second flower will start to rotate.
+
 
 ## 03 Research
 The scent of a flower typically contains volatile organic compounds(VOCs) that can disperse in the air and be detected by other nearby flowers. This dispersion helps attract more pollinators because insects, butterflies, and bees often rely on scent to locate flowers. 
