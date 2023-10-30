@@ -47,7 +47,7 @@ void loop() {
 - 
 ![WechatIMG2431](https://github.com/HHY1111/PCB-class-2023/assets/144415019/740854e2-f2a1-455e-8a99-227a9a7dc043)
 ![WechatIMG2432](https://github.com/HHY1111/PCB-class-2023/assets/144415019/bd0d6b8b-9074-4529-950e-8501219cbda7)
-···
+```
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
 
@@ -73,4 +73,4 @@ void setup()
 void loop()
 {
 }
-···
+```
