@@ -1,11 +1,11 @@
 # Nature Ecosystem Between Flowers and Pollinator
-## An interaction installation which imitates how flowers using volatile organic compounds(VOCs) to communicate with pollinators and other flowers
 
 ## 01 Initial Ideation
-
+### An interaction installation which imitates how flowers using volatile organic compounds(VOCs) to communicate with pollinators and other flowers
 
 ## 02 Whatchamacallit(two hours' quick prototyping)
 ![Uploading WechatIMG2424.jpeg…]()
+
 
 ## 03 Research
 The scent of a flower typically contains volatile organic compounds(VOCs) that can disperse in the air and be detected by other nearby flowers. This dispersion helps attract more pollinators because insects, butterflies, and bees often rely on scent to locate flowers. 
