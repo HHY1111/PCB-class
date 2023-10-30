@@ -4,6 +4,7 @@
 ## 01 Servo motor
 ![WechatIMG2430](https://github.com/HHY1111/PCB-class-2023/assets/144415019/092c61cd-85c1-4806-ba49-d18b9dd78ef8)
 - The three wires of the servo motor correspond to the following pins.
+
 ```
 #include <Servo.h>
 
