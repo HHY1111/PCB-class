@@ -56,19 +56,60 @@ void loop()
     Serial.print("\t");
     Serial.println(Sensor5);                // print sensor output 5
 
-    if (Sensor1 > 99) {    // trigger a solenoid1，flower 1
-    randNumber = random(1, 5);    // Generate random numbers between 1-5
-    Serial.println(randNumber);
-    Digital.Write(randNumber,HIGH);   // trigger a solenoid in addition to the solenoid1，make any flower other than flower1 release its scent
+    if (Sensor1 > 99) {    // trigger a solenoid1，flower 1, !! "99" need to be tested!!
+        do {randNumber = random(1, 5);
+        } while (randNumber == 1);
+        // Generate random numbers between 1-5 except for 1
+        Serial.println(randNumber);
+        digitalWrite(randNumber,HIGH);   // trigger a solenoid in addition to the solenoid1，make any flower other than flower1 release its scent
+       delay(300);   //   the solenoid keep pushing the bubble for 300 to release the scent
+       digitalWrite(randNumber,LOW);   //   switch the solenoid off to restore to initial state
     }
 
     else if (Sensor2 > 99) {    // trigger a solenoid2，flower 2
-    
+        do {
+        randNumber = random(1, 5);
+        } while (randNumber == 2);
+        // Generate random numbers between 1-5 except for 2
+        Serial.println(randNumber);
+        digitalWrite(randNumber,HIGH);   // trigger a solenoid in addition to the solenoid2，make any flower other than flower2 release its scent
+        delay(300);   //   the solenoid keep pushing the bubble for 300 to release the scent
+        digitalWrite(randNumber,LOW);   //   switch the solenoid off to restore to initial state
     }
-    else { // temperature < 60
-    // Safe! Continue usual tasks.
+    
+    else if (Sensor3 > 99) {    // trigger a solenoid3，flower 3
+        do {
+        randNumber = random(1, 5);
+        } while (randNumber == 3);
+        // Generate random numbers between 1-5 except for 3
+        Serial.println(randNumber);
+        digitalWrite(randNumber,HIGH);   // trigger a solenoid in addition to the solenoid3，make any flower other than flower3 release its scent
+        delay(300);   //   the solenoid keep pushing the bubble for 300 to release the scent
+        digitalWrite(randNumber,LOW);   //   switch the solenoid off to restore to initial state
     }
 
+    else if (Sensor4 > 99) {    // trigger a solenoid4，flower 4
+        do {
+        randNumber = random(1, 5);
+        } while (randNumber == 4);
+        // Generate random numbers between 1-5 except for 4
+        Serial.println(randNumber);
+        digitalWrite(randNumber,HIGH);   // trigger a solenoid in addition to the solenoid4，make any flower other than flower4 release its scent
+        delay(300);   //   the solenoid keep pushing the bubble for 300 to release the scent
+        digitalWrite(randNumber,LOW);   //   switch the solenoid off to restore to initial state
+    }
+
+    else if (Sensor5 > 99) {    // trigger a solenoid5，flower 5
+        do {
+        randNumber = random(1, 5);
+        } while (randNumber == 5);
+        // Generate random numbers between 1-5 except for 5
+        Serial.println(randNumber);
+        digitalWrite(randNumber,HIGH);   // trigger a solenoid in addition to the solenoid5，make any flower other than flower5 release its scent
+        delay(300);   //   the solenoid keep pushing the bubble for 300 to release the scent
+        digitalWrite(randNumber,LOW);   //   switch the solenoid off to restore to initial state
+    }
+    
     delay(50);                             // arbitrary delay to limit data to serial port 
 }
 ```
