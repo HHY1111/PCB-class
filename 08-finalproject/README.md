@@ -1,4 +1,4 @@
-## Project Description
+## 01 Project Description
 ### Floral Whispers
 - Chinese Version
   
@@ -8,12 +8,20 @@ Floral Whispers是一个模拟花朵与传粉者间生态系统的交互装置�
 
 "Floral Whispers" is an interactive installation that simulates the ecosystem between flowers and pollinators. In nature, many flowers briefly release    floral scents (VOCs) to attract pollinators and communicate with surrounding flowers to enhance their pollination rates. In this installation,         participants take on the role of pollinators and interact with the flowers. When participants lightly touches any petal, a random flower nearby will illuminate and release a fragrance, enticing participants to engage in "pollination," providing a multisensory experience involving touch, sight, and smell.
 
+## 02 Photos
+![DSC_5348](https://github.com/HHY1111/PCB-class-2023/assets/144415019/2195ed28-a411-4b39-bf9e-b183aa1e6ebd)
+![DSC_5141](https://github.com/HHY1111/PCB-class-2023/assets/144415019/d05139fd-b6e6-47cf-bf01-5fdc138ef6e0)
+![DSC_5117](https://github.com/HHY1111/PCB-class-2023/assets/144415019/88aa7a18-446f-4165-85a1-dd0016b3f7a5)
+![DSC_5459](https://github.com/HHY1111/PCB-class-2023/assets/144415019/87b9d9a7-e724-4669-8a00-159458a18e61)
 
-## JLC Page 
+
+
+## 03 JLC Page 
 https://pro.lceda.cn/editor#id=6e413bd88f104af395d7be28f594d4ff,tab=*ee70fd1d6c6a48a7a4b13d5598dd4678@6e413bd88f104af395d7be28f594d4ff
+![WechatIMG2579](https://github.com/HHY1111/PCB-class-2023/assets/144415019/d63ed615-0bb1-44f0-bfe9-f7013f71d64c)
 
 
-## Source Code
+## 04 Source Code
 ```
 #include <CapacitiveSensor.h>
 #include <Servo.h>
