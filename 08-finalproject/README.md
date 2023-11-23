@@ -97,7 +97,7 @@ void loop()
     Serial.print(Sensor3);                // print sensor output 3
     Serial.println("\t");
 
-   if (Sensor1 < 10) {    // trigger a solenoid1，flower 1, !! "99" need to be tested!!
+   if (Sensor1 < 30) {    // trigger a solenoid1，flower 1, !! "99" need to be tested!!
         do {
         randNumber = random(0, 3); // 生成3到6之间的随机数
         } while (randNumber == 0); // 如果随机数等于3或4，重新生成
@@ -123,7 +123,7 @@ void loop()
             delay(50);  
          }
 
-   else if (Sensor2 < 10) {    // trigger a solenoid2，flower 2
+   else if (Sensor2 < 30) {    // trigger a solenoid2，flower 2
        do {
         randNumber = random(0, 3); // 生成3到6之间的随机数
         } while (randNumber == 1); // 如果随机数等于3或4，重新生成
@@ -150,7 +150,7 @@ void loop()
          }
     
     
-     else if (Sensor3 < 10) {                          // trigger a solenoid3，flower 3
+     else if (Sensor3 < 30) {                          // trigger a capacitive sensor，flower 3
        do {
         randNumber = random(0, 3); // 生成3到6之间的随机数
         } while (randNumber == 0); // 如果随机数等于3或4，重新生成
