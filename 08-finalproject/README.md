@@ -1,3 +1,11 @@
+## Project Description
+## Floral Whispers
+- Chinese Version
+Floral Whispers是一个模拟花朵与传粉者间生态系统的交互装置。在自然界中，许多花朵短暂释放花香（VOCs）以吸引传粉者，并与周围花朵交流，以提高自身的授粉率。在该装置中，观者将扮演传粉者的   角色，与花朵进行互动。 当观者轻触任意一朵花瓣时，周围的一朵花就会随机亮起并释放香味，以引诱观者前去“传粉”，带来触觉、视觉和嗅觉的三重感官。
+
+- English Version
+"Floral Whispers" is an interactive installation that simulates the ecosystem between flowers and pollinators. In nature, many flowers briefly release    floral scents (VOCs) to attract pollinators and communicate with surrounding flowers to enhance their pollination rates. In this installation,         participants take on the role of pollinators and interact with the flowers. When participants lightly touches any petal, a random flower nearby will illuminate and release a fragrance, enticing participants to engage in "pollination," providing a multisensory experience involving touch, sight, and smell.
+
 ## JLC Page 
 https://pro.lceda.cn/editor#id=6e413bd88f104af395d7be28f594d4ff,tab=*ee70fd1d6c6a48a7a4b13d5598dd4678@6e413bd88f104af395d7be28f594d4ff
 
