@@ -1,4 +1,4 @@
-## ！！！最终最终的代码（写入花朵版本）
+## Source Code
 ```
 #include <CapacitiveSensor.h>
 #include <Servo.h>
