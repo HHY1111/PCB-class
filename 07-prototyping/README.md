@@ -1,4 +1,4 @@
-![WechatIMG2594](https://github.com/HHY1111/PCB-class-2023/assets/144415019/6c24086a-5dbb-4543-906c-3b9c3449e334)![WechatIMG2594](https://github.com/HHY1111/PCB-class-2023/assets/144415019/0de79ad6-04d9-431f-86a4-7f2a0d0e52d7)![WechatIMG2590](https://github.com/HHY1111/PCB-class-2023/assets/144415019/c00a86f9-264b-45cc-8b41-4ae9053778fb)![WechatIMG2590](https://github.com/HHY1111/PCB-class-2023/assets/144415019/ab971099-421e-4c46-be5d-a12a3b912951)# Nature Ecosystem Between Flowers and Pollinator
+# Nature Ecosystem Between Flowers and Pollinator
 
 ## 01 Initial Ideation
 **An interaction installation which imitates how flowers using volatile organic compounds(VOCs) to communicate with pollinators and other flowers**
@@ -43,35 +43,35 @@ int ALCOHOL_detected;
 
 ## 03 Process
 - I tried three different ways to simulate the release of floral scent from flowers: fan + scent pads, magnetic coils + airbags, and servo motors + airbags.
-- ![WechatIMG2588](https://github.com/HHY1111/PCB-class-2023/assets/144415019/1eb47ce3-6a15-4fba-9025-20b7e9b84702)
+![WechatIMG2588](https://github.com/HHY1111/PCB-class-2023/assets/144415019/1eb47ce3-6a15-4fba-9025-20b7e9b84702)
 
 - I ended up going with the last servo motor + airbag option
-- ![WechatIMG2598](https://github.com/HHY1111/PCB-class-2023/assets/144415019/5f0d94a7-026d-400a-b920-0a4aa1ee362e)
+ ![WechatIMG2598](https://github.com/HHY1111/PCB-class-2023/assets/144415019/5f0d94a7-026d-400a-b920-0a4aa1ee362e)
 
 - For the actuator I initially chose a CO2 sensor and ended up using a homemade capacitive sensor.
 - I tested the sensitivity of the capacitive sensor at different resistance values and finally chose a large 10 megohm resistor.
-- ![WechatIMG2590](https://github.com/HHY1111/PCB-class-2023/assets/144415019/57aa0ea5-f5b2-4d9d-b2ba-5d3e5f98adbc)
+![WechatIMG2590](https://github.com/HHY1111/PCB-class-2023/assets/144415019/57aa0ea5-f5b2-4d9d-b2ba-5d3e5f98adbc)
 
 - List the corresponding Sensor pins, LED pins and Servo pins.
-- ![WechatIMG2587](https://github.com/HHY1111/PCB-class-2023/assets/144415019/b3ac2734-8463-4a77-b8da-87dbf8995ab5)
+![WechatIMG2587](https://github.com/HHY1111/PCB-class-2023/assets/144415019/b3ac2734-8463-4a77-b8da-87dbf8995ab5)
 - 
 - In the design of the PCB board, I designed it in the shape of a flower. This PCB board is multi-functional, it is both a mainboard Peripheral metal petal is also a piece of capacitive sensor, I will make the periphery of the PCB board into a metal capacitive sensor .
-- ![WechatIMG2579](https://github.com/HHY1111/PCB-class-2023/assets/144415019/a9ec4bde-8c77-4369-a339-fc9475caf854)
+![WechatIMG2579](https://github.com/HHY1111/PCB-class-2023/assets/144415019/a9ec4bde-8c77-4369-a339-fc9475caf854)
 
 - The next step was to solder the components, and since each of my boards required a different type and location of components to be soldered, a lot of care had to be taken.
-- ![WechatIMG2595](https://github.com/HHY1111/PCB-class-2023/assets/144415019/a9cc669a-87a6-4e04-8dcc-071ab0866dc1)
+![WechatIMG2595](https://github.com/HHY1111/PCB-class-2023/assets/144415019/a9cc669a-87a6-4e04-8dcc-071ab0866dc1)
 
 - After that, I soldered on the small LEDs on the back side, but due to the lack of voltage, the small lights in series could not light up at the same time, so I re-soldered and modified the circuit of the LEDs to make it more of a parallel connection.
-- ![WechatIMG2600](https://github.com/HHY1111/PCB-class-2023/assets/144415019/f2b57639-403c-4df0-87cb-61ed37a60276)
+![WechatIMG2600](https://github.com/HHY1111/PCB-class-2023/assets/144415019/f2b57639-403c-4df0-87cb-61ed37a60276)
 
 - Write the code and test the linkage between flowers
-- ![WechatIMG2594](https://github.com/HHY1111/PCB-class-2023/assets/144415019/db134797-b132-4f29-8d72-badf7571d470)
+![WechatIMG2594](https://github.com/HHY1111/PCB-class-2023/assets/144415019/db134797-b132-4f29-8d72-badf7571d470)
 
 - Draw the Ai file afterward and go for laser cutting.
-- ![WechatIMG2593](https://github.com/HHY1111/PCB-class-2023/assets/144415019/b53dde86-8151-4eb4-8fee-0cdf21647351)
+![WechatIMG2593](https://github.com/HHY1111/PCB-class-2023/assets/144415019/b53dde86-8151-4eb4-8fee-0cdf21647351)
 
 - Use acrylic adhesive to stick the acrylic and fix the parts with screws.
-- ![WechatIMG2594](https://github.com/HHY1111/PCB-class-2023/assets/144415019/38670fbd-4521-40b6-ba27-1717763087b9)
+![WechatIMG2594](https://github.com/HHY1111/PCB-class-2023/assets/144415019/38670fbd-4521-40b6-ba27-1717763087b9)
 
 - Finished!
 ![WechatIMG2592](https://github.com/HHY1111/PCB-class-2023/assets/144415019/a22a5d96-a3e9-4a5d-bfc3-fac5b43013b2)
