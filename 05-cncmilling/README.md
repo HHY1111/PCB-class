@@ -58,7 +58,8 @@
 ![WechatIMG2421](https://github.com/HHY1111/PCB-class-2023/assets/144415019/51cd881c-1991-40f3-a728-d33fa7ea70ee)
 
 ## Step 7 - Testing
-![WechatIMG2419](https://github.com/HHY1111/PCB-class-2023/assets/144415019/b55745a6-f05e-4ffd-9fd6-b918c43c0e80)
+![WechatIMG2585](https://github.com/HHY1111/PCB-class-2023/assets/144415019/71de8168-bd22-4586-8091-a518502abedc)
+
 
 
 **Notes**
